@@ -22,6 +22,10 @@ function destructivelyRemoveElementFromBeginningOfArray(arr) {
   return arr; // This will return the modified arr
 };
 
-function 
+function removeElementFromBeginningOfArray(arr) {
+  // Takes in array and removes the first element
+  // Does NOT mutate the original array
+  
+};
 
 
