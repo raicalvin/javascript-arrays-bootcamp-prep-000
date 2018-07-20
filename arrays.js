@@ -29,6 +29,7 @@ function removeElementFromBeginningOfArray(arr) {
 };
 
 function destructivelyRemoveElementFromEndOfArray(arr) {
+  // Mutates the array and returns the modified array with last element removed
   return arr.pop();
 }; 
 
